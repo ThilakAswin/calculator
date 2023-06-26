@@ -1,0 +1,43 @@
+#frame{
+    position:absolute;
+   
+    text-align:center;
+    height: 300px;
+    width: 200px;
+    left:30%;
+    top:25%;
+    border-radius: 5%;
+    border-color: chocolate;
+    border-style: solid;
+    
+  
+}
+
+#display{
+    
+   
+    position: relative;
+    height: 30px;
+    text-align: right;
+    font-size:x-large;
+
+    
+}
+
+#button-section{
+
+position: relative;
+text-align: center;
+line-height:  300%;    
+word-spacing:  15px;
+padding-top: 5%;
+padding-left: 5%;
+padding-right: 5%;
+}
+
+button{
+    
+    width: 30px;
+    height: 30px;
+    
+}
