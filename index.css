@@ -1,0 +1,52 @@
+body{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+#frame{
+
+    
+    position:absolute;
+    width: 348px;
+    height: 570px;
+    top: 200px;
+    left: 100px;
+    border-color: black;
+    border-style: solid;
+    border-width: 8px;
+    
+  
+}
+
+hr{
+    margin: 0;
+    border-width: 5px;
+    
+}
+
+#display{
+    
+   
+    position: relative;
+    height: 60px;
+    text-align: right;
+    font-size:x-large;
+
+    
+}
+
+#button-section{
+
+position: relative;
+text-align: right;
+
+}
+
+button{
+    
+    width: 84px;
+    height: 100px;
+    border-width: 12px;
+    border-color: gray;
+    
+}
